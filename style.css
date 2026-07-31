@@ -200,6 +200,7 @@ body {
 
 .service-card ul {
 
+    display:block;
     margin:20px auto 0;
     text-align:left;
     padding-left:25px;
