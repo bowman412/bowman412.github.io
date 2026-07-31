@@ -200,9 +200,9 @@ body {
 
 .service-card ul {
 
-    display:inline-block;
     margin:20px auto 0;
     text-align:left;
+    width:fit-content;
     padding-left:25px;
 
 }
