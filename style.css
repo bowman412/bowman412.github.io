@@ -1,0 +1,582 @@
+/* ==========================
+   Engineered Legacy
+   Main Stylesheet
+========================== */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1d1d1d;
+    background: #f5f7fa;
+    line-height: 1.6;
+}
+
+
+/* ==========================
+   Header / Navigation
+========================== */
+
+
+.header {
+
+    background: #102a43;
+    color: white;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px 8%;
+
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+}
+
+
+.logo {
+
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: .5px;
+
+}
+
+
+
+.nav a {
+
+    color: white;
+    text-decoration: none;
+
+    margin-left: 25px;
+
+    font-weight: bold;
+
+}
+
+
+.nav a:hover {
+
+    color: #f58220;
+
+}
+
+
+
+.menu-toggle {
+
+    display: none;
+
+    background: none;
+    border: none;
+
+    color: white;
+
+    font-size: 28px;
+
+    cursor: pointer;
+
+}
+
+
+
+
+/* ==========================
+   Hero Sections
+========================== */
+
+
+.hero {
+
+    min-height: 75vh;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    text-align: center;
+
+    padding: 80px 10%;
+
+    background:
+
+    linear-gradient(
+    rgba(16,42,67,.85),
+    rgba(16,42,67,.85)
+    );
+
+    color:white;
+
+}
+
+
+
+.hero-content {
+
+    max-width: 900px;
+
+}
+
+
+
+.hero h1 {
+
+    font-size: 3rem;
+
+    margin-bottom: 25px;
+
+}
+
+
+
+.hero p {
+
+    font-size: 1.2rem;
+
+}
+
+
+
+
+.page-hero {
+
+    background:#102a43;
+
+    color:white;
+
+    text-align:center;
+
+    padding:70px 10%;
+
+}
+
+
+.page-hero h1 {
+
+    font-size:2.5rem;
+
+}
+
+
+
+
+/* ==========================
+   Buttons
+========================== */
+
+
+.btn {
+
+    display:inline-block;
+
+    margin-top:30px;
+
+    background:#f58220;
+
+    color:white;
+
+    padding:14px 32px;
+
+    border-radius:5px;
+
+    text-decoration:none;
+
+    font-weight:bold;
+
+    border:none;
+
+    cursor:pointer;
+
+}
+
+
+
+.btn:hover {
+
+    background:#d96d10;
+
+}
+
+
+
+/* ==========================
+   Sections
+========================== */
+
+
+.section {
+
+    padding:70px 10%;
+
+}
+
+
+
+.section h2 {
+
+    text-align:center;
+
+    margin-bottom:30px;
+
+    font-size:2rem;
+
+}
+
+
+
+.section-intro {
+
+    max-width:800px;
+
+    margin:auto;
+
+    text-align:center;
+
+}
+
+
+
+
+/* ==========================
+   Cards
+========================== */
+
+
+.cards {
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(auto-fit,minmax(250px,1fr));
+
+    gap:30px;
+
+    margin-top:40px;
+
+}
+
+
+
+.card,
+.service-card {
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:10px;
+
+    box-shadow:
+    0 5px 15px rgba(0,0,0,.08);
+
+}
+
+
+
+.card h3,
+.service-card h2 {
+
+    color:#102a43;
+
+    margin-bottom:15px;
+
+}
+
+
+
+.service-card ul {
+
+    margin-top:20px;
+
+    padding-left:20px;
+
+}
+
+
+
+
+/* ==========================
+   Dark Sections
+========================== */
+
+
+.dark-section {
+
+    background:#102a43;
+
+    color:white;
+
+}
+
+
+
+
+/* ==========================
+   Process
+========================== */
+
+
+.process {
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(auto-fit,minmax(220px,1fr));
+
+    gap:30px;
+
+    text-align:center;
+
+}
+
+
+
+.process span {
+
+    display:inline-flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    width:50px;
+
+    height:50px;
+
+    background:#f58220;
+
+    color:white;
+
+    border-radius:50%;
+
+    font-size:1.3rem;
+
+    font-weight:bold;
+
+}
+
+
+
+/* ==========================
+   Industries
+========================== */
+
+
+.industry-list,
+.deliverables {
+
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(auto-fit,minmax(180px,1fr));
+
+    gap:20px;
+
+    text-align:center;
+
+}
+
+
+
+.industry-list div,
+.deliverables div {
+
+
+    background:white;
+
+    padding:25px;
+
+    border-radius:8px;
+
+    font-weight:bold;
+
+}
+
+
+
+
+/* ==========================
+   Contact Form
+========================== */
+
+
+.contact-section {
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(auto-fit,minmax(300px,1fr));
+
+    gap:40px;
+
+}
+
+
+
+.form-container form {
+
+    display:flex;
+
+    flex-direction:column;
+
+}
+
+
+
+input,
+textarea {
+
+
+    padding:15px;
+
+    margin-bottom:15px;
+
+    border:1px solid #ccc;
+
+    border-radius:5px;
+
+    font-size:1rem;
+
+}
+
+
+
+.hidden {
+
+    display:none;
+
+}
+
+
+
+
+/* ==========================
+   CTA
+========================== */
+
+
+.cta {
+
+    text-align:center;
+
+    background:#f58220;
+
+    color:white;
+
+    padding:60px 10%;
+
+}
+
+
+
+
+/* ==========================
+   Footer
+========================== */
+
+
+footer {
+
+    background:#102a43;
+
+    color:white;
+
+    text-align:center;
+
+    padding:30px 10%;
+
+    font-size:.9rem;
+
+}
+
+
+
+
+/* ==========================
+   Mobile
+========================== */
+
+
+@media(max-width:768px){
+
+
+.header {
+
+    flex-direction:column;
+
+}
+
+
+.menu-toggle {
+
+    display:block;
+
+}
+
+
+
+.nav {
+
+    display:none;
+
+    flex-direction:column;
+
+    width:100%;
+
+    text-align:center;
+
+    margin-top:20px;
+
+}
+
+
+
+.nav.active {
+
+    display:flex;
+
+}
+
+
+
+.nav a {
+
+    margin:10px 0;
+
+}
+
+
+
+.hero h1 {
+
+    font-size:2rem;
+
+}
+
+
+
+.section {
+
+    padding:50px 6%;
+
+}
+
+
+}
