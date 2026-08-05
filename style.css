@@ -44,25 +44,7 @@ body {
     display: block;
 }
 
-<!--
-.logo {
-    display: flex;
-    flex-direction: column;
-}
 
-.logo-title {
-    font-size: 1.5rem;
-    font-weight: bold;
-    line-height: 1.1;
-}
-
-.logo-tagline {
-    font-size: 0.72rem;
-    color: rgba(255,255,255,0.85);
-    margin-top: 2px;
-    letter-spacing: 0.5px;
-}
--->
 
 .nav a {
     color: white;
