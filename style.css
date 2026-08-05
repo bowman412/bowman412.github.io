@@ -385,70 +385,55 @@ footer {
 
 
 .header {
-
-    flex-direction:column;
-    
-.logo-title {
-    text-align: center;
+    flex-direction: column;
+    padding: 15px 5%;
 }
 
-.logo-tagline {
-    font-size: 0.65rem;
-    text-align: center;
-}
-
+.logo img {
+    height: 55px;
 }
 
 
 .menu-toggle {
-
     display:block;
-
 }
 
 
 .nav {
-
     display:none;
     flex-direction:column;
     width:100%;
     text-align:center;
-
 }
 
 
 .nav.active {
-
     display:flex;
-
 }
 
 
 .nav a {
-
     margin:10px 0;
-
 }
 
 
-.hero h1 {
+.hero h2 {
+    font-size:1.8rem;
+}
 
-    font-size:2rem;
 
+.hero2 h1 {
+    font-size:1.8rem;
 }
 
 
 .section {
-
     padding:50px 6%;
-
 }
 
 
 .service-grid {
-
     grid-template-columns:1fr;
-
 }
 
 
