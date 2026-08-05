@@ -101,9 +101,10 @@ body {
 
 
 .hero2 {
-    background:#f5f7fa;
+    background:white;
     padding:80px 10%;
     text-align:center;
+   border-top: 1px solid #e5e7eb;
 }
 
 
