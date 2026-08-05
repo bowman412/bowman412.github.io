@@ -2,14 +2,15 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="120.97511mm"
+   height="15.70938mm"
+   viewBox="0 0 120.97511 15.70938"
    version="1.1"
    id="svg1"
-   inkscape:export-filename="engineered legacy header.svg"
+   inkscape:export-filename="engineered-legacy-header.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
+   sodipodi:docname="engineered legacy header.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,12 +24,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm">
+     inkscape:document-units="mm"
+     showgrid="false">
     <inkscape:page
        x="0"
        y="0"
-       width="210"
-       height="297"
+       width="120.97511"
+       height="15.70938"
        id="page2"
        margin="0"
        bleed="0" />
@@ -38,7 +40,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-23.793795,-11.965118)">
     <path
        style="font-style:italic;font-weight:bold;font-size:19.7556px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';white-space:pre;fill:#ffffff;stroke-width:0.264583"
        d="m 37.520465,12.510367 -0.627009,2.720254 h -6.704171 l -0.59807,2.565913 h 6.221857 l -0.636655,2.729899 H 28.95456 l -0.839227,3.627005 h 6.704171 l -0.617362,2.720254 H 23.793796 l 3.318323,-14.363325 z m 10.13825,14.363325 H 37.288954 l 3.318323,-14.363325 h 3.723468 L 41.658723,24.09556 h 6.646293 z"
