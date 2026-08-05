@@ -26,15 +26,26 @@ body {
 ========================== */
 
 .header {
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
+    background: #102a43;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 8%;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
 
+.logo {
+    display: flex;
+    align-items: center;
+}
+
 .logo img {
-    width: 260px;
-    height: auto;
+    height: 60px;
+    width: auto;
     display: block;
 }
 
