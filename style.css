@@ -384,8 +384,8 @@ footer {
 @media(max-width:768px){
 
 .header {
-    flex-direction:row;
-    justify-content:space-between;
+    flex-direction:column;
+    justify-content:center;
     align-items:center;
     padding:15px 5%;
 }
@@ -404,6 +404,7 @@ footer {
 
 .menu-toggle {
     display:block;
+    margin-top:15px;
 }
 
 
