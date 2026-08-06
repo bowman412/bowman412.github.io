@@ -390,10 +390,17 @@ footer {
     padding:15px 5%;
 }
 
-.logo img {
-    height:50px;
+
+.logo {
+    flex: 0 1 auto;
+    max-width: 220px;
 }
 
+.logo img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
 
 .menu-toggle {
     display:block;
