@@ -383,14 +383,15 @@ footer {
 
 @media(max-width:768px){
 
-
 .header {
-    flex-direction: column;
-    padding: 15px 5%;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 5%;
 }
 
 .logo img {
-    height: 55px;
+    height:50px;
 }
 
 
@@ -404,6 +405,11 @@ footer {
     flex-direction:column;
     width:100%;
     text-align:center;
+    position:absolute;
+    top:80px;
+    left:0;
+    background:#102a43;
+    padding:20px;
 }
 
 
@@ -435,6 +441,5 @@ footer {
 .service-grid {
     grid-template-columns:1fr;
 }
-
 
 }
