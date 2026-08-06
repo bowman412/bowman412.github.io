@@ -21,7 +21,6 @@ if (menuToggle && nav) {
 }
 
 
-
 // Close mobile menu after selecting a link
 
 const navLinks = document.querySelectorAll(".nav a");
@@ -42,43 +41,44 @@ navLinks.forEach(link => {
 });
 
 
-
-
 // Simple scroll reveal animation
 
 const sections = document.querySelectorAll(
-    ".section, .card, .service-card, .cta"
+    ".section, .service-card, .cta"
 );
 
 
-const observer = new IntersectionObserver(
+if ("IntersectionObserver" in window) {
 
-(entries) => {
+    const observer = new IntersectionObserver(
 
-    entries.forEach(entry => {
+        (entries) => {
 
-        if(entry.isIntersecting){
+            entries.forEach(entry => {
 
-            entry.target.classList.add("show");
+                if (entry.isIntersecting) {
 
+                    entry.target.classList.add("show");
+
+                }
+
+            });
+
+        },
+
+        {
+            threshold: 0.15
         }
+
+    );
+
+
+    sections.forEach(section => {
+
+        section.classList.add("hidden-section");
+
+        observer.observe(section);
 
     });
 
-},
-
-{
-    threshold: 0.15
 }
-
-);
-
-
-
-sections.forEach(section => {
-
-    section.classList.add("hidden-section");
-
-    observer.observe(section);
-
-});
