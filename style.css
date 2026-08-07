@@ -39,11 +39,10 @@ body {
 
 
 .logo img {
-    width: 360px;
-    height: auto;
+    height: 45px;
+    width: auto;
     display: block;
 }
-
 
 .nav a {
     color: white;
