@@ -264,7 +264,7 @@ body {
 
 }
 
-.services-grid .service-card:last-child {
+.service-grid .service-card:last-child {
     grid-column: 1 / -1;
     justify-self: center;
     max-width: 420px;
