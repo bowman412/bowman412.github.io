@@ -92,17 +92,10 @@ body {
 }
 
 .hero p {
-    font-size:1.15rem;
-    margin-bottom:15px;
-}
-
-.section-intro {
-
     max-width:900px;
     margin:auto;
     font-size:1.15rem;
     line-height:1.8;
-
 }
 
 
