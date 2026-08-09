@@ -347,6 +347,11 @@ textarea {
     font-size: 1rem;
 }
 
+input::placeholder,
+textarea::placeholder {
+    font-family: inherit;
+    opacity: 1;
+}
 
 .hidden {
     display:none;
