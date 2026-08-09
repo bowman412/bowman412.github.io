@@ -68,51 +68,33 @@ body {
 }
 
 
-
-/* ==========================
-   Page Hero
-========================== */
-
-.page-hero {
-
-    text-align:center;
-    background:white;
-    padding:40px 10%;
-
-}
-
-
-.page-hero h1 {
-
-    color:#102a43;
-    font-size:2.2rem;
-    margin-bottom:30px;
-
-}
-
-
-
 /* ==========================
    Hero
 ========================== */
 
 .hero {
-
     text-align:center;
     padding:40px 10%;
     background:white;
-
 }
 
 
 .hero h1 {
-
     color:#102a43;
     font-size:2.2rem;
     margin-bottom:30px;
-
 }
 
+.hero h2 {
+    color:#102a43;
+    font-size:1.5rem;
+    margin-bottom:30px;
+}
+
+.hero p {
+    font-size:1.15rem;
+    margin-bottom:15px;
+}
 
 .section-intro {
 
