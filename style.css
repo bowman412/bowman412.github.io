@@ -325,37 +325,31 @@ body {
 
 
 .contact-section {
-
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
     gap:40px;
-
 }
 
 
 .form-container form {
-
     display:flex;
     flex-direction:column;
-
 }
 
 
 input,
 textarea {
-
     padding:15px;
     margin-bottom:15px;
     border:1px solid #ccc;
     border-radius:5px;
-
+    font-family: inherit;
+    font-size: 1rem;
 }
 
 
 .hidden {
-
     display:none;
-
 }
 
 
@@ -366,17 +360,13 @@ textarea {
 
 
 .faq h3 {
-
     color:#102a43;
     margin-top:25px;
-
 }
 
 
 .faq p {
-
     margin-bottom:15px;
-
 }
 
 
@@ -387,12 +377,10 @@ textarea {
 
 
 .cta {
-
     text-align:center;
     background:#f58220;
     color:white;
     padding:60px 10%;
-
 }
 
 
@@ -403,13 +391,11 @@ textarea {
 
 
 footer {
-
     background:#102a43;
     color:white;
     text-align:center;
     padding:30px 10%;
     border-top: 4px solid #f28c28;
-
 }
 
 
@@ -420,19 +406,15 @@ footer {
 
 
 .hidden-section {
-
     opacity:0;
     transform:translateY(30px);
     transition:.6s ease;
-
 }
 
 
 .show {
-
     opacity:1;
     transform:translateY(0);
-
 }
 
 
@@ -441,38 +423,29 @@ footer {
    Mobile
 ========================== */
 
-
 @media(max-width:768px){
 
-
 .header {
-
     flex-direction:column;
     justify-content:center;
     align-items:center;
     padding:15px 5%;
-
 }
 
 
 .logo {
-
     order:1;
-
 }
 
 
 .menu-toggle {
-
     display:block;
     order:2;
     margin-top:15px;
-
 }
 
 
 .nav {
-
     order:3;
     display:none;
     flex-direction:column;
@@ -480,21 +453,16 @@ footer {
     text-align:center;
     background:#102a43;
     padding:20px;
-
 }
 
 
 .nav.active {
-
     display:flex;
-
 }
 
 
 .nav a {
-
     margin:10px 0;
-
 }
 
 
@@ -505,48 +473,29 @@ footer {
     }
 
 
-.hero h2 {
-
+.hero h1 {
     font-size:1.8rem;
-
 }
 
 
-.hero2 h1 {
-
+.hero2 h2 {
     font-size:1.8rem;
-
-}
-
-
-.page-hero h1 {
-
-    font-size:1.8rem;
-
 }
 
 
 .section {
-
     padding:50px 6%;
-
 }
 
 
 .service-grid {
-
     grid-template-columns:1fr;
-
 }
 
-
-
-    .service-grid .service-card:last-child {
+.service-grid .service-card:last-child {
         grid-column: auto;
         width: 100%;
         max-width: none;
-    }
-
-
+}
 
 }
