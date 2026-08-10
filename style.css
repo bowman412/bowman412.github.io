@@ -254,6 +254,7 @@ body {
 
     background:#102a43;
     color:white;
+    padding:40px 10%;
 
 }
 
@@ -384,7 +385,7 @@ textarea::placeholder {
     text-align:center;
     background:#f58220;
     color:white;
-    padding:60px 10%;
+    padding:40px 10%;
 }
 
 
