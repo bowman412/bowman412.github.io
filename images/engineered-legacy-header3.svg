@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   viewBox="0 0 721.34959 107.8359"
+   version="1.1"
+   id="svg1"
+   width="721.34961"
+   height="107.8359"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient12">
+      <stop
+         style="stop-color:#102a43;stop-opacity:1;"
+         offset="0"
+         id="stop12" />
+      <stop
+         style="stop-color:#102a43;stop-opacity:0;"
+         offset="1"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop9" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <rect
+       x="187.19046"
+       y="-21.879404"
+       width="17.017315"
+       height="97.241798"
+       id="rect6" />
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="-1375.752"
+       y1="-151.97311"
+       x2="-1256.1021"
+       y2="-151.97311"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient9"
+       id="linearGradient11"
+       gradientUnits="userSpaceOnUse"
+       x1="-1211.5614"
+       y1="-110.18524"
+       x2="-629.63257"
+       y2="-110.18524"
+       gradientTransform="matrix(1.0042961,0,0,1.0042961,-22.982562,-10.263955)" />
+    <radialGradient
+       xlink:href="#linearGradient12"
+       id="radialGradient14"
+       cx="-1317.1272"
+       cy="-151.97311"
+       fx="-1317.1272"
+       fy="-151.97311"
+       r="59.542187"
+       gradientTransform="matrix(1,0,0,0.90553244,0,-14.35653)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(1376.6694,205.89049)">
+    <text
+       xml:space="preserve"
+       style="font-size:150px;letter-spacing:-3px;writing-mode:lr-tb;direction:ltr;fill:url(#radialGradient14);stroke:url(#linearGradient2);stroke-width:3;stroke-dasharray:none"
+       x="-1378.8521"
+       y="-99.473053"
+       id="text1"><tspan
+         id="tspan1"
+         x="-1378.8521"
+         y="-99.473053"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:150px;font-family:'Barlow Condensed';-inkscape-font-specification:'Barlow Condensed,  Bold Italic Condensed';letter-spacing:-3px;opacity:1;fill:#102a43;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1">EL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:76.1459px;font-family:'Barlow Condensed';-inkscape-font-specification:'Barlow Condensed,  Bold Italic Condensed';letter-spacing:3.00576px;writing-mode:lr-tb;direction:ltr;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.89338;stroke-dasharray:none;stroke-opacity:1"
+       x="-1241.3546"
+       y="-141.78589"
+       id="text2"><tspan
+         id="tspan2"
+         x="-1241.3546"
+         y="-141.78589"
+         style="letter-spacing:3.00576px;stroke-width:1.89338"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:condensed;font-family:'Barlow Condensed';-inkscape-font-specification:'Barlow Condensed,  Semi-Bold Italic Condensed';letter-spacing:3.00576px;stroke-width:1.89338;stroke-dasharray:none"
+   id="tspan3">ENGINEERED</tspan> <tspan
+   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:condensed;font-family:'Barlow Condensed';-inkscape-font-specification:'Barlow Condensed,  Semi-Bold Italic Condensed';letter-spacing:3.00576px;stroke-width:1.89338;stroke-dasharray:none"
+   id="tspan4">LEGACY</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:condensed;font-size:31.8575px;font-family:'Barlow Condensed';-inkscape-font-specification:'Barlow Condensed,  Medium Condensed';letter-spacing:1.2743px;writing-mode:lr-tb;direction:ltr;opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient11);stroke-width:0.481625;stroke-dasharray:none"
+       x="-1241.4514"
+       y="-109.77243"
+       id="text5"><tspan
+         id="tspan5"
+         x="-1241.4514"
+         y="-109.77243"
+         style="font-size:31.8575px;letter-spacing:1.2743px;fill:#f58220;fill-opacity:1;stroke:#000000;stroke-width:0.481625;stroke-dasharray:none;stroke-opacity:1">PRESERVING CRITICAL ENGINEERING KNOWLEDGE</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(-1430.4223,-178.54744)"
+       id="text6"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:condensed;font-size:25px;font-family:'Barlow Condensed';-inkscape-font-specification:'Barlow Condensed,  Medium Condensed';letter-spacing:1px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);display:inline;opacity:1;fill:#f58220;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:condensed;font-size:25px;font-family:'Barlow Condensed';-inkscape-font-specification:'Barlow Condensed,  Medium Condensed';letter-spacing:1px;writing-mode:lr-tb;direction:ltr;opacity:1;fill:#f58220;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"
+       x="-1240.8008"
+       y="119.25557"
+       id="text7"><tspan
+         id="tspan7"
+         x="-1240.8008"
+         y="119.25557"></tspan></text>
+    <path
+       style="opacity:1;fill:#f58220;fill-opacity:1;stroke:#f58220;stroke-width:2.69866;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1242.4002,-204.51215 -10.7445,105.108229"
+       id="path8" />
+  </g>
+</svg>
